@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Geral">
+
+    </PreferenceCategory>
+    <EditTextPreference
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:key="login"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="Login para entrar no sistema"
+        android:title="Setar Login" />
+    <EditTextPreference
+        android:icon="@android:drawable/ic_menu_view"
+        android:key="senha"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="Senha para entrar no sistema"
+        android:title="Setar Senha" />
+    <SwitchPreference
+        android:defaultValue="false"
+        android:icon="@android:drawable/ic_menu_set_as"
+        android:key="salvaLogin"
+        android:summary="Preencher login na tela inicial"
+        android:title="Preencher Login" />
+</PreferenceScreen>

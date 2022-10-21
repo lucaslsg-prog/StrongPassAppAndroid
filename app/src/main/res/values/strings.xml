@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StrongPass</string>
+    <string name="message">Digite suas credenciais para continuar</string>
+    <string name="textLogin">Login:</string>
+    <string name="textPassword">Senha:</string>
+    <string name="saveLogin">Salvar informação de login</string>
+    <string name="buttonEnter">ENTRAR</string>
+    <string name="menuMoreInfos">Mais informações</string>
+    <string name="buttonCreatePassword">New password</string>
+    <string name="configs">Configurações</string>
+    <string name="buttonAddClick">Nova senha</string>
+    <string name="newPassTitle">Nova senha</string>
+    <string name="addLogin">Login</string>
+    <string name="addPassword">Senha</string>
+    <string name="newPassword">Sugestão de senha</string>
+</resources>
